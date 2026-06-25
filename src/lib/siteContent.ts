@@ -92,17 +92,17 @@ export const siteContent: SiteContent = {
   },
   featuredBook: {
     badge: '今月のおすすめ',
-    title: '人を動かす',
-    author: 'デール・カーネギー',
-    genre: 'ビジネス',
+    title: '2030 来たるべき世界',
+    author: 'エマニュエル・トッド',
+    genre: '歴史',
     rating: 5,
-    coverUrl: 'https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=800&q=80',
-    description: '80年以上読み継がれる不朽の名著。人間関係の本質を、実例を交えながら具体的に説く一冊。現代でも色褪せない普遍的な原則が詰まっています。',
+    coverUrl: 'https://images.unsplash.com/photo-1526243741027-444d633d7365?auto=format&fit=crop&w=800&q=80',
+    description: '人口動態学と家族構造から世界の未来を読み解く、フランスの知性エマニュエル・トッドの最新作。人口統計データを基に、2030年の世界秩序を大胆に予測します。',
     keyPoints: [
-      '相手の立場に立って考える重要性',
-      '批判せず、誠実な評価を与える',
-      '人に好かれる6つの原則',
-      'リーダーシップの基本原則'
+      '人口動態が世界秩序に与える影響',
+      '家族構造の変化と社会の未来',
+      '中国、アメリカ、ヨーロッパの行方',
+      'データに基づく冷静な未来予測'
     ],
     ctaText: '詳しく見る'
   },
@@ -148,14 +148,14 @@ export const siteContent: SiteContent = {
   books: [
     {
       id: '1',
-      title: '人を動かす',
-      author: 'デール・カーネギー',
-      genre: 'ビジネス',
+      title: '2030 来たるべき世界',
+      author: 'エマニュエル・トッド',
+      genre: '歴史',
       rating: 5,
-      coverUrl: 'https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=800&q=80',
-      excerpt: '80年以上読み継がれる不朽の名著。人間関係の原則を実例とともに学べる一冊。批判せず、誠実に評価することの大切さが心に響きます。',
+      coverUrl: 'https://images.unsplash.com/photo-1526243741027-444d633d7365?auto=format&fit=crop&w=800&q=80',
+      excerpt: '人口動態学と家族構造から世界の未来を読み解く知的興奮に満ちた一冊。人口統計データを基に、2030年の世界秩序を大胆に予測します。',
       readDate: '2024年1月',
-      readTime: '8時間'
+      readTime: '10時間'
     },
     {
       id: '2',
